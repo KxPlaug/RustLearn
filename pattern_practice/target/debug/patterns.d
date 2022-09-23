@@ -1,1 +1,1 @@
-D:\RustPractice\RustPractice\patterns\target\debug\patterns.exe: D:\RustPractice\RustPractice\patterns\src\main.rs
+D:\RustPractice\RustPractice\pattern_practice\target\debug\patterns.exe: D:\RustPractice\RustPractice\pattern_practice\src\main.rs
